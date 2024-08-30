@@ -19,4 +19,4 @@ function Cube(){
 }
 
 function Root(){
-    display.value=Math.sqr(display.value,)}
+    display.value=Math.sqr(display.value)}
