@@ -17,3 +17,6 @@ function Cube(){
     display.value = Math.pow(display.value,3);
 
 }
+
+function Root(){
+    display.value=Math.sqr(display.value,)}
