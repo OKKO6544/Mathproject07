@@ -18,5 +18,7 @@ function Cube(){
 
 }
 
-function Root(){
-    display.value=Math.sqr(display.value)}
+function SquareRoot(){
+    display.value = Math.sqrt(display.value);
+
+}
