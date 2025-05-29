@@ -23,6 +23,3 @@ function SquareRoot(){
 
 }
 
-function CubeRoot(){
-    display.value = Math.cbrt(display.value);
-}
