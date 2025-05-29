@@ -22,3 +22,7 @@ function SquareRoot(){
     display.value = Math.sqrt(display.value);
 
 }
+
+function CubeRoot(){
+    display.value = Math.cbrt(display.value);
+}
